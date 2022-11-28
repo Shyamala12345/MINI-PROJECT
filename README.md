@@ -1,1 +1,1 @@
-# mini
+# MINI PROJECT 
